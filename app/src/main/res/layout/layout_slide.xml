@@ -24,6 +24,7 @@
             android:layout_height="wrap_content"
             android:fontFamily="serif"
             android:text="@string/slide_1_title"
+            android:textAlignment="center"
             android:textColor="@android:color/white"
             android:textSize="@dimen/slide_title"
             android:textStyle="bold" />

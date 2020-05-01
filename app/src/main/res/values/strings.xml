@@ -2,7 +2,8 @@
     <string name="app_name">OnBoardingApp</string>
 
     <string name="next">NEXT</string>
-    <string name="skip">SKIP</string>
+    <string name="finish">FINISH</string>
+    <string name="precious">PREVIOUS</string>
 
     <string name="slide_1_title">Hello Developer!</string>
     <string name="slide_1_desc">Android Development is Fun!</string>
