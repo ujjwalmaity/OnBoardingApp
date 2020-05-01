@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">OnBoardingApp</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+
+    <string name="slide_1_title">Hello Developer!</string>
+    <string name="slide_1_desc">Android Development is Fun!</string>
+
+    <string name="slide_2_title">Millions of Users</string>
+    <string name="slide_2_desc">Almost 85% of Mobile Users are Using Android</string>
+
+    <string name="slide_3_title">Great No of Devices</string>
+    <string name="slide_3_desc">Best Specs available across wide no of devices!</string>
+
+    <string name="slide_4_title">Full Support From Google</string>
+    <string name="slide_4_desc">Wide range of application support from play store!</string>
 </resources>
